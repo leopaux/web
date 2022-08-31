@@ -1,6 +1,9 @@
 ----
 
 <p align="center">
+
+<img src="LeopauxLogo.png" width="100">
+
 <strong><a href="#link1">Link 1</a></strong>
 |
 <strong><a href="#link2">Link 2</a></strong>
