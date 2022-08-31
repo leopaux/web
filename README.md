@@ -14,9 +14,12 @@
 
 ----
 
----
 
-> [MyWebsite](https://www.example.com) &nbsp;&middot;&nbsp;
-> GitHub [@MyGitHub](https://github.com/MyGitHub) &nbsp;&middot;&nbsp;
-> Other [MyProfilename](https://othersocialmedia.com/MyProfile)
-> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+> [Leopaux](https://leopaux.github.com/web/) &nbsp;&middot;&nbsp;
+> [Website Manager](https://github.com/CodyDaCoder) &nbsp;&middot;&nbsp;
+> Leopaux, Leaders of the Pack! :wolf: &nbsp;&middot;&nbsp;
+> Made/Hosted on GitHub :octocat: &nbsp;&middot;&nbsp;
+> Made with :heart: by Leopaux
