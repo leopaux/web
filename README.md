@@ -20,6 +20,5 @@
 
 > [Leopaux](https://leopaux.github.com/web/) &nbsp;&middot;&nbsp;
 > [Website Manager](https://github.com/CodyDaCoder) &nbsp;&middot;&nbsp;
-> Leopaux, Leaders of the Pack! &nbsp;&middot;&nbsp;
-> Made/Hosted on GitHub &nbsp;&middot;&nbsp;
-> Made with by Leopaux
+> Leopaux, Leaders of the Pack! 🐺 &nbsp;&middot;&nbsp;
+> Made with by ❤️ Leopaux 🐴
