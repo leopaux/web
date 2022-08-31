@@ -14,4 +14,9 @@
 
 ----
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+---
+
+> [MyWebsite](https://www.example.com) &nbsp;&middot;&nbsp;
+> GitHub [@MyGitHub](https://github.com/MyGitHub) &nbsp;&middot;&nbsp;
+> Other [MyProfilename](https://othersocialmedia.com/MyProfile)
+> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
