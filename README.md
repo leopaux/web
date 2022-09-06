@@ -5,7 +5,7 @@
 
 <strong><a href="https://leopaux.github.io/web/">Home</a></strong>
 |
-<strong><a href="#link2">Link 2</a></strong>
+<strong><a href="https://wakefieldforestes.fcps.edu/">WFES</a></strong>
 |
 <strong><a href="#link3">Link 3</a></strong>
 |
@@ -24,4 +24,4 @@
 > [Leopaux](https://leopaux.github.io/web/) &nbsp;&middot;&nbsp;
 > [Website Manager](https://github.com/CodyDaCoder) &nbsp;&middot;&nbsp;
 > Leopaux, Leaders of the Pack! 🐺 &nbsp;&middot;&nbsp;
-> Made with by ❤️ Leopaux 🐴
+> Made with by ❤️ Leopaux :lion:
