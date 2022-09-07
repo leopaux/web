@@ -12,6 +12,6 @@ The below table will tell you which versions are supported in this current secur
 
 ## Reporting a Vulnerability
 
-If you find a vulnerability, please let us know in the 'Leopaux Fans' team.
+If you find a vulnerability, please let us know in the team on the orginization page.
 
 Last updated by `@CodyDaCoder`
