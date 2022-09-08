@@ -5,13 +5,11 @@
 
 <strong><a href="https://leopaux.github.io/web/">Home</a></strong>
 |
-<strong><a href="https://wakefieldforestes.fcps.edu/">WFES</a></strong>
+<strong><a href="https://github.com/leopaux/web/discussions">Discussions</a></strong>
 |
-<strong><a href="#link3">Link 3</a></strong>
+<strong><a href="https://github.com/orgs/leopaux/projects">Projects</a></strong>
 |
-<strong><a href="#link4">Link 4</a></strong>
-|
-<strong><a href="#link5">Link 5</a></strong>
+<strong><a href="no form yet :(">Contribute</a></strong>
  
 </p>
 
