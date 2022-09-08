@@ -9,7 +9,7 @@
 |
 <strong><a href="https://github.com/orgs/leopaux/projects">Projects</a></strong>
 |
-<strong><a href="no-form-yet-:(">Contribute</a></strong>
+<strong><a href="">Contribute ( currently disabled:( )</a></strong>
  
 </p>
 
