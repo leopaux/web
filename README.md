@@ -20,4 +20,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > [Leopaux](https://leopaux.github.io/web/) &nbsp;&middot;&nbsp;
-> [Website Manager](https://github.com/CodyDaCoder)
+> [Website Manager](https://github.com/CodyDaCoder) &nbsp;&middot;&nbsp;
+> [Security Policy](https://github.com/leopaux/web/security/policy)
