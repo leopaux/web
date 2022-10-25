@@ -9,6 +9,8 @@
 |
 <strong><a href="https://github.com/orgs/leopaux/projects">Projects</a></strong>
 |
+<strong><a href="https://leopaux.github.io/web/posts/posts.md">Posts</a></strong>
+|
 <strong><a href="#nothing">Contribute - currently disabled</a></strong>
  
 </p>
