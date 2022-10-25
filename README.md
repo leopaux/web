@@ -19,6 +19,11 @@
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQkHSu_9FTEW4goX9M6RwGO6HX6U90YDv968yreoRZDHWK5oFbrd7TjRFSvY4uByh1Nqq9TFedXvvjP/pubchart?oid=911793620&amp;format=interactive" width="503" height="314" scrolling="no" frameborder="0"></iframe>
 
+
+House points not loading? 
+
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > [Leopaux](https://leopaux.github.io/web/) &nbsp;&middot;&nbsp;
