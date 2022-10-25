@@ -9,8 +9,6 @@
 |
 <strong><a href="https://github.com/orgs/leopaux/projects">Projects</a></strong>
 |
-<strong><a href="https://leopaux.github.io/web/posts/posts.md">Posts</a></strong>
-|
 <strong><a href="#nothing">Contribute - currently disabled</a></strong>
  
 </p>
@@ -26,6 +24,26 @@
 
 ⚠️House points not loading? You might need to sign into your school Google account.
 
+----
+#### Posts ⤵
+
+#### ▶️ Posts/Welcome | [Raw](https://leopaux.github.io/web/posts/welcome.md)
+
+## 👋 Welcome!
+  Here, we hope that you:
+  * Ask questions you’re **wondering about.**
+  * Share **ideas.**
+  * Engage with other **Leopaux members.**
+  * **Welcome others** and are **open-minded.**
+
+  Use teams on the organization page for noting problems with Leopaux, and do **everything else here!**
+  To get started, comment [here](https://github.com/leopaux/web/discussions/1) with an **introduction of yourself** and tell us about what you will try to do to help Leopaux.
+
+Bye!
+
+~ @CodyDaCoder 
+
+----
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
