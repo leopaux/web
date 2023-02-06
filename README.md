@@ -15,14 +15,14 @@
 
 ----
 
-> ### Welcome to Leopaux!
+### Welcome to Leopaux!
 
 #### House points ⤵
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQkHSu_9FTEW4goX9M6RwGO6HX6U90YDv968yreoRZDHWK5oFbrd7TjRFSvY4uByh1Nqq9TFedXvvjP/pubchart?oid=911793620&amp;format=interactive" width="503" height="314" scrolling="no" frameborder="0"></iframe>
 
 
-⚠️House points not loading? You might need to sign into your school Google account.
+> ⚠️ **House points not loading?** You might need to sign into your school Google account.
 
 ----
 #### Posts ⤵
