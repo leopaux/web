@@ -15,7 +15,7 @@
 
 ----
 
-### Welcome to Leopaux!
+### Welcome to <p style="color:purple">Leopaux!</p>
 
 #### House points ⤵
 
